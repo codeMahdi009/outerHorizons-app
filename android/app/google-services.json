@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161069182084",
+    "project_id": "outerhorizons-e92b8",
+    "storage_bucket": "outerhorizons-e92b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161069182084:android:223825119119e7cf57a6d1",
+        "android_client_info": {
+          "package_name": "com.example.outer_horizons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuslUalySGztgcxsLsjCb6pf-MhSksaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
